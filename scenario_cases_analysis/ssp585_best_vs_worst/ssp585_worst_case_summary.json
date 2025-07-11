@@ -1,0 +1,11 @@
+{
+  "scenario": "SSP585_worst_case",
+  "description": "Catastrophic climate response",
+  "statistics": {
+    "avg_temperature": 19.14147105145547,
+    "avg_precipitation": 3.2611451608426485,
+    "avg_discharge": 185.2498615271166,
+    "max_discharge": 2219.068863945895,
+    "min_discharge": 130.0
+  }
+}

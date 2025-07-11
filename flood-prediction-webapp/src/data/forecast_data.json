@@ -1,0 +1,1402 @@
+[
+  {
+    "year": 2025,
+    "temperature_increase": 1.3,
+    "precipitation_change": 5.0,
+    "discharge": 3154.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2026,
+    "temperature_increase": 1.31,
+    "precipitation_change": 5.2,
+    "discharge": 3318.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2027,
+    "temperature_increase": 1.32,
+    "precipitation_change": 5.4,
+    "discharge": 3068.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2028,
+    "temperature_increase": 1.34,
+    "precipitation_change": 5.6,
+    "discharge": 3420.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2029,
+    "temperature_increase": 1.35,
+    "precipitation_change": 5.8,
+    "discharge": 3411.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2030,
+    "temperature_increase": 1.36,
+    "precipitation_change": 6.0,
+    "discharge": 2902.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2031,
+    "temperature_increase": 1.37,
+    "precipitation_change": 6.2,
+    "discharge": 3293.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2032,
+    "temperature_increase": 1.38,
+    "precipitation_change": 6.4,
+    "discharge": 2811.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2033,
+    "temperature_increase": 1.4,
+    "precipitation_change": 6.6,
+    "discharge": 2683.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2034,
+    "temperature_increase": 1.41,
+    "precipitation_change": 6.8,
+    "discharge": 2384.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2035,
+    "temperature_increase": 1.42,
+    "precipitation_change": 7.0,
+    "discharge": 2955.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2036,
+    "temperature_increase": 1.43,
+    "precipitation_change": 7.2,
+    "discharge": 3203.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2037,
+    "temperature_increase": 1.44,
+    "precipitation_change": 7.4,
+    "discharge": 3182.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2038,
+    "temperature_increase": 1.46,
+    "precipitation_change": 7.6,
+    "discharge": 2780.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2039,
+    "temperature_increase": 1.47,
+    "precipitation_change": 7.8,
+    "discharge": 3376.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2040,
+    "temperature_increase": 1.48,
+    "precipitation_change": 8.0,
+    "discharge": 2976.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2041,
+    "temperature_increase": 1.49,
+    "precipitation_change": 8.2,
+    "discharge": 2753.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2042,
+    "temperature_increase": 1.51,
+    "precipitation_change": 8.4,
+    "discharge": 3042.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2043,
+    "temperature_increase": 1.52,
+    "precipitation_change": 8.6,
+    "discharge": 2526.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2044,
+    "temperature_increase": 1.53,
+    "precipitation_change": 8.8,
+    "discharge": 3236.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2045,
+    "temperature_increase": 1.54,
+    "precipitation_change": 9.0,
+    "discharge": 3223.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2046,
+    "temperature_increase": 1.55,
+    "precipitation_change": 9.2,
+    "discharge": 3418.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2047,
+    "temperature_increase": 1.57,
+    "precipitation_change": 9.4,
+    "discharge": 3714.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2048,
+    "temperature_increase": 1.58,
+    "precipitation_change": 9.6,
+    "discharge": 3308.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2049,
+    "temperature_increase": 1.59,
+    "precipitation_change": 9.8,
+    "discharge": 3164.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2050,
+    "temperature_increase": 1.6,
+    "precipitation_change": 10.0,
+    "discharge": 2535.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2051,
+    "temperature_increase": 1.61,
+    "precipitation_change": 10.2,
+    "discharge": 3420.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2052,
+    "temperature_increase": 1.63,
+    "precipitation_change": 10.4,
+    "discharge": 2732.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2053,
+    "temperature_increase": 1.64,
+    "precipitation_change": 10.6,
+    "discharge": 3217.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2054,
+    "temperature_increase": 1.65,
+    "precipitation_change": 10.8,
+    "discharge": 2696.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2055,
+    "temperature_increase": 1.66,
+    "precipitation_change": 11.0,
+    "discharge": 3511.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2056,
+    "temperature_increase": 1.67,
+    "precipitation_change": 11.2,
+    "discharge": 3530.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2057,
+    "temperature_increase": 1.69,
+    "precipitation_change": 11.4,
+    "discharge": 3422.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2058,
+    "temperature_increase": 1.7,
+    "precipitation_change": 11.6,
+    "discharge": 3875.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2059,
+    "temperature_increase": 1.71,
+    "precipitation_change": 11.8,
+    "discharge": 3587.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2060,
+    "temperature_increase": 1.72,
+    "precipitation_change": 12.0,
+    "discharge": 3513.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2061,
+    "temperature_increase": 1.73,
+    "precipitation_change": 12.2,
+    "discharge": 3028.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2062,
+    "temperature_increase": 1.75,
+    "precipitation_change": 12.4,
+    "discharge": 2941.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2063,
+    "temperature_increase": 1.76,
+    "precipitation_change": 12.6,
+    "discharge": 3655.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2064,
+    "temperature_increase": 1.77,
+    "precipitation_change": 12.8,
+    "discharge": 3545.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2065,
+    "temperature_increase": 1.78,
+    "precipitation_change": 13.0,
+    "discharge": 3181.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2066,
+    "temperature_increase": 1.79,
+    "precipitation_change": 13.2,
+    "discharge": 2676.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2067,
+    "temperature_increase": 1.81,
+    "precipitation_change": 13.4,
+    "discharge": 3908.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2068,
+    "temperature_increase": 1.82,
+    "precipitation_change": 13.6,
+    "discharge": 3101.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2069,
+    "temperature_increase": 1.83,
+    "precipitation_change": 13.8,
+    "discharge": 3429.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2070,
+    "temperature_increase": 1.84,
+    "precipitation_change": 14.0,
+    "discharge": 2884.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2071,
+    "temperature_increase": 1.85,
+    "precipitation_change": 14.2,
+    "discharge": 3247.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2072,
+    "temperature_increase": 1.87,
+    "precipitation_change": 14.4,
+    "discharge": 3120.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2073,
+    "temperature_increase": 1.88,
+    "precipitation_change": 14.6,
+    "discharge": 3613.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2074,
+    "temperature_increase": 1.89,
+    "precipitation_change": 14.8,
+    "discharge": 3556.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2075,
+    "temperature_increase": 1.9,
+    "precipitation_change": 7.3,
+    "discharge": 2969.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2076,
+    "temperature_increase": 1.92,
+    "precipitation_change": 7.6,
+    "discharge": 2764.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2077,
+    "temperature_increase": 1.93,
+    "precipitation_change": 7.9,
+    "discharge": 2998.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2078,
+    "temperature_increase": 1.94,
+    "precipitation_change": 8.3,
+    "discharge": 2957.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2079,
+    "temperature_increase": 1.95,
+    "precipitation_change": 8.8,
+    "discharge": 3372.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2080,
+    "temperature_increase": 1.96,
+    "precipitation_change": 9.4,
+    "discharge": 3805.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2081,
+    "temperature_increase": 1.98,
+    "precipitation_change": 9.9,
+    "discharge": 3312.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2082,
+    "temperature_increase": 1.99,
+    "precipitation_change": 10.6,
+    "discharge": 3706.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2083,
+    "temperature_increase": 2.0,
+    "precipitation_change": 11.3,
+    "discharge": 3437.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2084,
+    "temperature_increase": 2.01,
+    "precipitation_change": 12.0,
+    "discharge": 2903.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2085,
+    "temperature_increase": 2.02,
+    "precipitation_change": 12.8,
+    "discharge": 3241.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2086,
+    "temperature_increase": 2.04,
+    "precipitation_change": 13.5,
+    "discharge": 3251.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2087,
+    "temperature_increase": 2.05,
+    "precipitation_change": 14.3,
+    "discharge": 3886.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2088,
+    "temperature_increase": 2.06,
+    "precipitation_change": 15.1,
+    "discharge": 3181.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2089,
+    "temperature_increase": 2.07,
+    "precipitation_change": 15.9,
+    "discharge": 4049.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2090,
+    "temperature_increase": 2.08,
+    "precipitation_change": 16.7,
+    "discharge": 3325.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2091,
+    "temperature_increase": 2.1,
+    "precipitation_change": 17.5,
+    "discharge": 4069.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2092,
+    "temperature_increase": 2.11,
+    "precipitation_change": 18.2,
+    "discharge": 3942.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2093,
+    "temperature_increase": 2.12,
+    "precipitation_change": 19.0,
+    "discharge": 3506.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2094,
+    "temperature_increase": 2.13,
+    "precipitation_change": 19.6,
+    "discharge": 3502.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2095,
+    "temperature_increase": 2.14,
+    "precipitation_change": 20.3,
+    "discharge": 3969.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2096,
+    "temperature_increase": 2.16,
+    "precipitation_change": 20.8,
+    "discharge": 3789.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2097,
+    "temperature_increase": 2.17,
+    "precipitation_change": 21.3,
+    "discharge": 3401.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2098,
+    "temperature_increase": 2.18,
+    "precipitation_change": 21.8,
+    "discharge": 3758.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2099,
+    "temperature_increase": 2.19,
+    "precipitation_change": 22.2,
+    "discharge": 3965.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2100,
+    "temperature_increase": 2.2,
+    "precipitation_change": 22.5,
+    "discharge": 3618.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2101,
+    "temperature_increase": 2.22,
+    "precipitation_change": 22.7,
+    "discharge": 4433.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2102,
+    "temperature_increase": 2.23,
+    "precipitation_change": 22.9,
+    "discharge": 3502.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2103,
+    "temperature_increase": 2.24,
+    "precipitation_change": 23.0,
+    "discharge": 4211.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2104,
+    "temperature_increase": 2.25,
+    "precipitation_change": 23.0,
+    "discharge": 3774.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2105,
+    "temperature_increase": 2.26,
+    "precipitation_change": 22.9,
+    "discharge": 3823.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2106,
+    "temperature_increase": 2.28,
+    "precipitation_change": 22.8,
+    "discharge": 4213.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2107,
+    "temperature_increase": 2.29,
+    "precipitation_change": 22.5,
+    "discharge": 3979.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2108,
+    "temperature_increase": 2.3,
+    "precipitation_change": 22.2,
+    "discharge": 3583.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2109,
+    "temperature_increase": 2.31,
+    "precipitation_change": 21.8,
+    "discharge": 3916.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2110,
+    "temperature_increase": 2.33,
+    "precipitation_change": 21.4,
+    "discharge": 3501.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2111,
+    "temperature_increase": 2.34,
+    "precipitation_change": 20.9,
+    "discharge": 2608.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2112,
+    "temperature_increase": 2.35,
+    "precipitation_change": 20.3,
+    "discharge": 3698.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2113,
+    "temperature_increase": 2.36,
+    "precipitation_change": 19.7,
+    "discharge": 3591.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2114,
+    "temperature_increase": 2.37,
+    "precipitation_change": 19.0,
+    "discharge": 4117.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2115,
+    "temperature_increase": 2.39,
+    "precipitation_change": 18.3,
+    "discharge": 3306.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2116,
+    "temperature_increase": 2.4,
+    "precipitation_change": 17.6,
+    "discharge": 3599.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2117,
+    "temperature_increase": 2.41,
+    "precipitation_change": 16.8,
+    "discharge": 3795.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2118,
+    "temperature_increase": 2.42,
+    "precipitation_change": 16.0,
+    "discharge": 4202.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2119,
+    "temperature_increase": 2.43,
+    "precipitation_change": 15.2,
+    "discharge": 3598.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2120,
+    "temperature_increase": 2.45,
+    "precipitation_change": 14.4,
+    "discharge": 3629.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2121,
+    "temperature_increase": 2.46,
+    "precipitation_change": 13.6,
+    "discharge": 2852.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2122,
+    "temperature_increase": 2.47,
+    "precipitation_change": 12.8,
+    "discharge": 3707.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2123,
+    "temperature_increase": 2.48,
+    "precipitation_change": 12.1,
+    "discharge": 3746.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2124,
+    "temperature_increase": 2.49,
+    "precipitation_change": 11.3,
+    "discharge": 3905.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2125,
+    "temperature_increase": 2.51,
+    "precipitation_change": 15.6,
+    "discharge": 3399.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2126,
+    "temperature_increase": 2.52,
+    "precipitation_change": 16.5,
+    "discharge": 4303.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2127,
+    "temperature_increase": 2.53,
+    "precipitation_change": 17.4,
+    "discharge": 3845.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2128,
+    "temperature_increase": 2.54,
+    "precipitation_change": 18.3,
+    "discharge": 3578.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2129,
+    "temperature_increase": 2.55,
+    "precipitation_change": 19.1,
+    "discharge": 3904.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2130,
+    "temperature_increase": 2.57,
+    "precipitation_change": 19.9,
+    "discharge": 3532.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2131,
+    "temperature_increase": 2.58,
+    "precipitation_change": 20.6,
+    "discharge": 3590.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2132,
+    "temperature_increase": 2.59,
+    "precipitation_change": 21.3,
+    "discharge": 4070.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2133,
+    "temperature_increase": 2.6,
+    "precipitation_change": 21.9,
+    "discharge": 4337.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2134,
+    "temperature_increase": 2.61,
+    "precipitation_change": 22.5,
+    "discharge": 4151.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2135,
+    "temperature_increase": 2.63,
+    "precipitation_change": 23.0,
+    "discharge": 4107.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2136,
+    "temperature_increase": 2.64,
+    "precipitation_change": 23.5,
+    "discharge": 4112.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2137,
+    "temperature_increase": 2.65,
+    "precipitation_change": 23.9,
+    "discharge": 3700.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2138,
+    "temperature_increase": 2.66,
+    "precipitation_change": 24.2,
+    "discharge": 4463.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2139,
+    "temperature_increase": 2.67,
+    "precipitation_change": 24.5,
+    "discharge": 3561.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2140,
+    "temperature_increase": 2.69,
+    "precipitation_change": 24.7,
+    "discharge": 4131.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2141,
+    "temperature_increase": 2.7,
+    "precipitation_change": 24.9,
+    "discharge": 4370.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2142,
+    "temperature_increase": 2.71,
+    "precipitation_change": 25.0,
+    "discharge": 3204.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2143,
+    "temperature_increase": 2.72,
+    "precipitation_change": 25.0,
+    "discharge": 3165.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2144,
+    "temperature_increase": 2.74,
+    "precipitation_change": 25.0,
+    "discharge": 3448.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2145,
+    "temperature_increase": 2.75,
+    "precipitation_change": 24.8,
+    "discharge": 3764.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2146,
+    "temperature_increase": 2.76,
+    "precipitation_change": 24.7,
+    "discharge": 3383.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2147,
+    "temperature_increase": 2.77,
+    "precipitation_change": 24.4,
+    "discharge": 4358.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2148,
+    "temperature_increase": 2.78,
+    "precipitation_change": 24.1,
+    "discharge": 3964.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2149,
+    "temperature_increase": 2.8,
+    "precipitation_change": 23.7,
+    "discharge": 4405.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2150,
+    "temperature_increase": 2.81,
+    "precipitation_change": 23.3,
+    "discharge": 4055.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2151,
+    "temperature_increase": 2.82,
+    "precipitation_change": 22.8,
+    "discharge": 4324.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2152,
+    "temperature_increase": 2.83,
+    "precipitation_change": 22.3,
+    "discharge": 3822.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2153,
+    "temperature_increase": 2.84,
+    "precipitation_change": 21.7,
+    "discharge": 4685.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2154,
+    "temperature_increase": 2.86,
+    "precipitation_change": 21.0,
+    "discharge": 4012.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2155,
+    "temperature_increase": 2.87,
+    "precipitation_change": 20.3,
+    "discharge": 3911.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2156,
+    "temperature_increase": 2.88,
+    "precipitation_change": 19.6,
+    "discharge": 3878.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2157,
+    "temperature_increase": 2.89,
+    "precipitation_change": 18.8,
+    "discharge": 3727.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2158,
+    "temperature_increase": 2.9,
+    "precipitation_change": 17.9,
+    "discharge": 3223.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2159,
+    "temperature_increase": 2.92,
+    "precipitation_change": 17.1,
+    "discharge": 3315.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2160,
+    "temperature_increase": 2.93,
+    "precipitation_change": 16.2,
+    "discharge": 3857.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2161,
+    "temperature_increase": 2.94,
+    "precipitation_change": 15.3,
+    "discharge": 3469.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2162,
+    "temperature_increase": 2.95,
+    "precipitation_change": 14.3,
+    "discharge": 2751.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2163,
+    "temperature_increase": 2.96,
+    "precipitation_change": 13.3,
+    "discharge": 3614.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2164,
+    "temperature_increase": 2.98,
+    "precipitation_change": 12.4,
+    "discharge": 4117.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2165,
+    "temperature_increase": 2.99,
+    "precipitation_change": 11.4,
+    "discharge": 3627.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2166,
+    "temperature_increase": 3.0,
+    "precipitation_change": 10.4,
+    "discharge": 3560.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2167,
+    "temperature_increase": 3.01,
+    "precipitation_change": 9.4,
+    "discharge": 3424.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2168,
+    "temperature_increase": 3.02,
+    "precipitation_change": 8.4,
+    "discharge": 3524.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2169,
+    "temperature_increase": 3.04,
+    "precipitation_change": 7.4,
+    "discharge": 2641.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2170,
+    "temperature_increase": 3.05,
+    "precipitation_change": 6.4,
+    "discharge": 3271.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2171,
+    "temperature_increase": 3.06,
+    "precipitation_change": 5.4,
+    "discharge": 3386.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2172,
+    "temperature_increase": 3.07,
+    "precipitation_change": 4.5,
+    "discharge": 3124.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2173,
+    "temperature_increase": 3.08,
+    "precipitation_change": 3.6,
+    "discharge": 3164.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2174,
+    "temperature_increase": 3.1,
+    "precipitation_change": 2.7,
+    "discharge": 3296.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2175,
+    "temperature_increase": 3.11,
+    "precipitation_change": 1.8,
+    "discharge": 3382.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2176,
+    "temperature_increase": 3.12,
+    "precipitation_change": 1.0,
+    "discharge": 3208.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2177,
+    "temperature_increase": 3.13,
+    "precipitation_change": 0.2,
+    "discharge": 3237.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2178,
+    "temperature_increase": 3.15,
+    "precipitation_change": -0.5,
+    "discharge": 3561.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2179,
+    "temperature_increase": 3.16,
+    "precipitation_change": -1.2,
+    "discharge": 3326.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2180,
+    "temperature_increase": 3.17,
+    "precipitation_change": -1.8,
+    "discharge": 3241.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2181,
+    "temperature_increase": 3.18,
+    "precipitation_change": -2.4,
+    "discharge": 3112.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2182,
+    "temperature_increase": 3.19,
+    "precipitation_change": -3.0,
+    "discharge": 2724.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2183,
+    "temperature_increase": 3.21,
+    "precipitation_change": -3.4,
+    "discharge": 3773.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2184,
+    "temperature_increase": 3.22,
+    "precipitation_change": -3.8,
+    "discharge": 3074.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2185,
+    "temperature_increase": 3.23,
+    "precipitation_change": -4.2,
+    "discharge": 3646.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2186,
+    "temperature_increase": 3.24,
+    "precipitation_change": -4.5,
+    "discharge": 3105.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2187,
+    "temperature_increase": 3.25,
+    "precipitation_change": -4.7,
+    "discharge": 3392.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2188,
+    "temperature_increase": 3.27,
+    "precipitation_change": -4.9,
+    "discharge": 3097.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2189,
+    "temperature_increase": 3.28,
+    "precipitation_change": -5.0,
+    "discharge": 3061.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2190,
+    "temperature_increase": 3.29,
+    "precipitation_change": -5.0,
+    "discharge": 3170.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2191,
+    "temperature_increase": 3.3,
+    "precipitation_change": -5.0,
+    "discharge": 2891.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2192,
+    "temperature_increase": 3.31,
+    "precipitation_change": -4.9,
+    "discharge": 2899.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2193,
+    "temperature_increase": 3.33,
+    "precipitation_change": -4.7,
+    "discharge": 3413.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2194,
+    "temperature_increase": 3.34,
+    "precipitation_change": -4.5,
+    "discharge": 3032.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2195,
+    "temperature_increase": 3.35,
+    "precipitation_change": -4.2,
+    "discharge": 2704.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2196,
+    "temperature_increase": 3.36,
+    "precipitation_change": -3.8,
+    "discharge": 3161.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2197,
+    "temperature_increase": 3.37,
+    "precipitation_change": -3.4,
+    "discharge": 3459.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2198,
+    "temperature_increase": 3.39,
+    "precipitation_change": -2.9,
+    "discharge": 3138.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2199,
+    "temperature_increase": 3.4,
+    "precipitation_change": -2.3,
+    "discharge": 3361.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2200,
+    "temperature_increase": 3.41,
+    "precipitation_change": -1.7,
+    "discharge": 3254.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2201,
+    "temperature_increase": 3.42,
+    "precipitation_change": -1.1,
+    "discharge": 2669.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2202,
+    "temperature_increase": 3.43,
+    "precipitation_change": -0.4,
+    "discharge": 3334.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2203,
+    "temperature_increase": 3.45,
+    "precipitation_change": 0.3,
+    "discharge": 3274.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2204,
+    "temperature_increase": 3.46,
+    "precipitation_change": 1.1,
+    "discharge": 3224.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2205,
+    "temperature_increase": 3.47,
+    "precipitation_change": 2.0,
+    "discharge": 3501.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2206,
+    "temperature_increase": 3.48,
+    "precipitation_change": 2.8,
+    "discharge": 3197.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2207,
+    "temperature_increase": 3.49,
+    "precipitation_change": 3.7,
+    "discharge": 3638.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2208,
+    "temperature_increase": 3.51,
+    "precipitation_change": 4.6,
+    "discharge": 3204.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2209,
+    "temperature_increase": 3.52,
+    "precipitation_change": 5.6,
+    "discharge": 3983.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2210,
+    "temperature_increase": 3.53,
+    "precipitation_change": 6.5,
+    "discharge": 3227.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2211,
+    "temperature_increase": 3.54,
+    "precipitation_change": 7.5,
+    "discharge": 3330.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2212,
+    "temperature_increase": 3.56,
+    "precipitation_change": 8.5,
+    "discharge": 3632.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2213,
+    "temperature_increase": 3.57,
+    "precipitation_change": 9.5,
+    "discharge": 3765.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2214,
+    "temperature_increase": 3.58,
+    "precipitation_change": 10.5,
+    "discharge": 2870.0,
+    "risk_level": 1
+  },
+  {
+    "year": 2215,
+    "temperature_increase": 3.59,
+    "precipitation_change": 11.5,
+    "discharge": 3842.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2216,
+    "temperature_increase": 3.6,
+    "precipitation_change": 12.5,
+    "discharge": 3461.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2217,
+    "temperature_increase": 3.62,
+    "precipitation_change": 13.5,
+    "discharge": 3457.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2218,
+    "temperature_increase": 3.63,
+    "precipitation_change": 14.4,
+    "discharge": 3730.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2219,
+    "temperature_increase": 3.64,
+    "precipitation_change": 15.4,
+    "discharge": 3784.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2220,
+    "temperature_increase": 3.65,
+    "precipitation_change": 16.3,
+    "discharge": 4482.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2221,
+    "temperature_increase": 3.66,
+    "precipitation_change": 17.2,
+    "discharge": 3851.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2222,
+    "temperature_increase": 3.68,
+    "precipitation_change": 18.1,
+    "discharge": 4111.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2223,
+    "temperature_increase": 3.69,
+    "precipitation_change": 18.9,
+    "discharge": 4269.0,
+    "risk_level": 2
+  },
+  {
+    "year": 2224,
+    "temperature_increase": 3.7,
+    "precipitation_change": 19.7,
+    "discharge": 4942.0,
+    "risk_level": 2
+  }
+]

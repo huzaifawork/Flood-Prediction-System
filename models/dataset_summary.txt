@@ -1,0 +1,31 @@
+Dataset Shape: (8401, 5)
+
+Columns: ['Date', 'Min Temp', 'Max Temp', 'Prcp', 'Discharge (cumecs)']
+
+Data Types:
+Date                   object
+Min Temp              float64
+Max Temp              float64
+Prcp                  float64
+Discharge (cumecs)    float64
+dtype: object
+
+Missing Values:
+Date                  0
+Min Temp              0
+Max Temp              0
+Prcp                  0
+Discharge (cumecs)    0
+dtype: int64
+
+Dataset Description:
+          Min Temp     Max Temp         Prcp  Discharge (cumecs)
+count  8401.000000  8401.000000  8401.000000         8401.000000
+mean     12.208042    26.115123     2.678059          218.444739
+std       7.296222     7.546411     8.540509          158.576217
+min      -0.416915    12.003604     0.000000            5.510000
+25%       5.046802    18.962385     0.000000           89.900000
+50%      12.458880    27.858703     0.000000          180.100000
+75%      19.225031    33.032648     0.100000          323.500000
+max      24.513372    38.484411   187.000000         1918.000000
+

@@ -1,0 +1,11 @@
+{
+  "scenario": "SSP245_worst_case",
+  "description": "Poor climate response with limited mitigation",
+  "statistics": {
+    "avg_temperature": 15.951225876212892,
+    "avg_precipitation": 3.4785548382321583,
+    "avg_discharge": 163.87487750475697,
+    "max_discharge": 1963.022456567522,
+    "min_discharge": 114.99999999999999
+  }
+}

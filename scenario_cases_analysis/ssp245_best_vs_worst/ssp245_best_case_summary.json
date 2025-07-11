@@ -1,0 +1,11 @@
+{
+  "scenario": "SSP245_best_case",
+  "description": "Optimal climate response with strong mitigation",
+  "statistics": {
+    "avg_temperature": 9.570735525727734,
+    "avg_precipitation": 4.783012902569218,
+    "avg_discharge": 121.12490946003777,
+    "max_discharge": 1450.9296418107772,
+    "min_discharge": 85.0
+  }
+}

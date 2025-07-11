@@ -1,0 +1,11 @@
+{
+  "scenario": "SSP585_best_case",
+  "description": "Best possible outcome under high emissions",
+  "statistics": {
+    "avg_temperature": 12.760980700970313,
+    "avg_precipitation": 4.565603225179708,
+    "avg_discharge": 128.24990413415765,
+    "max_discharge": 1536.2784442702348,
+    "min_discharge": 90.0
+  }
+}

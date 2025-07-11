@@ -1,0 +1,57 @@
+🌊 FLOOD PREDICTION SYSTEM - SIMPLE INSTRUCTIONS
+================================================
+
+FIRST TIME SETUP (Do this only once):
+====================================
+
+STEP 1: Install Requirements
+- Download Python 3.8+ from https://python.org/downloads/
+  ⚠️ IMPORTANT: Check "Add Python to PATH" during installation
+- Download Node.js 16+ from https://nodejs.org/
+  ⚠️ IMPORTANT: Download the LTS (Long Term Support) version
+
+STEP 2: Run Setup
+- Right-click on "SETUP.bat" 
+- Select "Run as administrator"
+- Wait 10-15 minutes for installation to complete
+- You'll see "SETUP COMPLETED SUCCESSFULLY!" when done
+
+USING THE APPLICATION (Every time):
+==================================
+
+STEP 3: Start the System
+- Double-click "START.bat"
+- Wait for the browser to open automatically
+- You'll see the Flood Prediction Dashboard
+
+STEP 4: Make Predictions
+- Enter temperature values (minimum and maximum)
+- Enter precipitation amount
+- Click "Predict Flood Risk"
+- View the results and risk assessment
+
+STEP 5: Stop the System
+- Press any key in the black window to stop
+- Or simply close the black window
+
+TROUBLESHOOTING:
+===============
+
+Problem: "Python is not installed"
+Solution: Install Python and make sure "Add to PATH" is checked
+
+Problem: "Node.js is not installed" 
+Solution: Install Node.js LTS version from nodejs.org
+
+Problem: "Setup not completed"
+Solution: Run SETUP.bat as administrator first
+
+Problem: Browser doesn't open
+Solution: Manually go to http://localhost:5173
+
+SUPPORT:
+========
+Email: mhuzaifatariq7@gmail.com
+GitHub: https://github.com/huzaifawork/flood-prediction-system
+
+Enjoy predicting flood risks! 🌊📊
