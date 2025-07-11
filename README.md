@@ -296,12 +296,15 @@ Flood-Prediction-System/
 <sub>🏗️ System Architecture</sub>
 </td>
 <td align="center">
-<a href="https://github.com/shkumar156"/>
+<a href="https://github.com/shkumar156">
 <img src="https://avatars.githubusercontent.com/u/145112115?s=400&u=a0f3759a6bfa9c402f1f55ed2552814c53592bb1&v=4" width="100px;" alt="Muhammad Umar"/><br />
-<sub><b>Muhammad Umar</b></sub><br />
-<sub>Full-Stack Development</sub><br />
-<sub>🔬 WebApp and ML Model Development</sub>
+<sub><b>Muhammad Umar</b></sub>
+</a><br />
+<sub>Full-Stack Developer</sub><br />
+<sub>🔬 WebApp and ML Model Development</sub><br />
+<sub>🏗️ System Architecture</sub>
 </td>
+
 
 </td>
 </tr>
